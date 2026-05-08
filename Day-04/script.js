@@ -1,4 +1,4 @@
-1.
+// 1.What will be the output
 let day = "Monday";
 
 switch (day) {
@@ -11,7 +11,7 @@ switch (day) {
 
 
 
-2. Build an ATM Cash Withdrawal System
+//2. Build an ATM Cash Withdrawal System
 let amount = 10000;
 if (amount % 100 === 0) {
     console.log("Withdrawal successful.");
@@ -21,7 +21,7 @@ if (amount % 100 === 0) {
 
 
 
-3. Build a Calculator with switch-case     ====>>>
+//3. Build a Calculator with switch-case     ====>>>
 
 let num1 = 10;
 let num2 = 5;
@@ -59,7 +59,7 @@ switch(operator4) {
 
 
 
-3. Pay for your movie ticket
+//4. Pay for your movie ticket
 Imagine, the INOX charges ticket prices based on age:
 
 Children (<18 years): $3
@@ -85,8 +85,7 @@ switch (true) {
 }
 
 
-
-++++++++++++++Measuring the sides of Triangle+++++++++++
+// ++++++++++++++Measuring the sides of Triangle+++++++++++
 
 let side1 = 3;
 let side2 = 4;
